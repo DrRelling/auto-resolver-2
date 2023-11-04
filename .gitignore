@@ -1,0 +1,17 @@
+/.~lock.Input sheet.xlsx#
+/obj
+
+/.vscode
+/art
+/bin
+/data
+/entities
+/enums
+/output/**.xlsx
+/utils
+/windows
+/auto-resolver-2.csproj
+/auto-resolver-2.pdb
+/auto-resolver-2.sln
+/Program.cs
+/README.md
